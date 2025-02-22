@@ -39,5 +39,3 @@ M5 Recommended Readings
 -- Chapter 6: Decision Trees  
 -- Chapter 7: Ensemble Learning and Random Forests
 
-M6 Recommended Readings
-
