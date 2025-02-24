@@ -25,4 +25,7 @@ M5 Explore Further
 
 M6 Explore Further
 - Amidi, A., & Amidi, S. (n.d.). Machine learning tips and tricks cheatsheet (Links to an external site.). Stanford University. 
-- Bellwood, L, Meconis, D., McCloud, S. (n.d.). Learning neural networks (Links to an external site.). Goog
+- Bellwood, L, Meconis, D., McCloud, S. (n.d.). Learning neural networks (Links to an external site.). Google. 
+- Lipton, Z.C. (2016, November 7). The foundations of algorithmic bias (Links to an external site.). Approximately Correct.
+- Mazur, M. (2015, March 17). A step by step backpropagation example
+
