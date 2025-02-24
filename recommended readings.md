@@ -39,3 +39,11 @@ M5 Recommended Readings
 -- Chapter 6: Decision Trees  
 -- Chapter 7: Ensemble Learning and Random Forests
 
+M6 Recommended Readings
+- Müller, A.C., & Guido, S. (2018). Introduction to machine learning with Python. O'Reilly Media Inc.
+-- Chapter 5.3: Evaluation Metrics and Scoring
+-- Chapter 2.3.8: Neural Networks (Deep Learning)
+-- Chapter 2.3.7: Kernelized Support Vector Machines
+- Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media Inc.
+-- Chapter 3: Classification
+-- Chapter 10: Introduction to Artificial Neural Networks with Keras
