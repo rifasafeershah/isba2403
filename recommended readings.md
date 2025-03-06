@@ -47,3 +47,8 @@ M6 Recommended Readings
 - Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media Inc.
 -- Chapter 3: Classification
 -- Chapter 10: Introduction to Artificial Neural Networks with Keras
+
+M7 Recommended Readings
+- Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media Inc.
+-- Chapter 10: Introduction to Artificial Neural Networks with Keras
+-- Chapter 11: Training Deep Neural Networks
