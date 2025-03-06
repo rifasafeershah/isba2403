@@ -29,3 +29,8 @@ M6 Explore Further
 - Lipton, Z.C. (2016, November 7). The foundations of algorithmic bias (Links to an external site.). Approximately Correct.
 - Mazur, M. (2015, March 17). A step by step backpropagation example
 
+M7 Explore Further
+- Dettmers, T. (2015, November 03). Deep learning in a nutshell: Core concepts (Links to an external site.). Developer.  
+- LeCun, Y., Bengio, Y., Hinton, G. (2015). Deep learning. Nature, 521, pp. 436-444.
+- Stumpe, M. (2017, March 03). Assisting pathologists in detecting cancer with deep learning (Links to an external site.). Google AI Blog. 
+- Tanz, O., & Carter, C. (2017, April 13). Neural networks made easy (Links to an external site.). Tech Crunch
